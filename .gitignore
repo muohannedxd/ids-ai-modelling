@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore data and iot23 folders
+data/
+iot23/
+
+# Ignore temporary files and system files
+*.swp
+*.swo
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info
+
+# Ignore logs
+*.log
+
+# Ignore virtual environments
+venv/
+.env/
