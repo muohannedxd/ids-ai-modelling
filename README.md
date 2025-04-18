@@ -1,4 +1,4 @@
-# INtrusion Detection System Using Artificial Intelligence
+# Intrusion Detection System Using Artificial Intelligence
 
 This repository contains the project for the **Wireless Communication and Networks** course.
 
